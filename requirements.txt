@@ -1,6 +1,5 @@
-```text
+text
 streamlit
 pandas
 plotly
 statsmodels
-```
