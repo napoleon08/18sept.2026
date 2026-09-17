@@ -1,4 +1,4 @@
-```python
+python
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -441,4 +441,3 @@ with st.expander("📋 사용한 데이터 확인"):
         df,
         use_container_width=True
     )
-```
